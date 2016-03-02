@@ -1,13 +1,10 @@
 {
 	"name": "infrajs/test-oduvanio",
+	"homepage":"https://github.com/infrajs/test-oduvanio",
 	"description": "Tests for infrajs",
 	"license": "GPL3",
-	"autoload": {
-		"psr-4": { "infrajs\\test\\oduvanio\\": "" }
-	},
 	"require":{
 		"infrajs/path":"~1",
-		"infrajs/tester":"~1",
 		"infrajs/tester":"~1",
 		"infrajs/yml":"~1"
 	}
