@@ -2,7 +2,6 @@
 	"name": "infrajs/test-oduvanio",
 	"homepage":"https://github.com/infrajs/test-oduvanio",
 	"description": "Tests for infrajs",
-	"license": "GPL3",
 	"require":{
 		"infrajs/path":"~1",
 		"infrajs/tester":"~1",
